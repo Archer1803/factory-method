@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\factory-method\\thuvien\\thuvien\\thuvien.csproj": {}
+    "D:\\LTHDT\\thuvienrandom\\thuvienrandom\\thuvienrandom.csproj": {}
   },
   "projects": {
-    "D:\\Git\\factory-method\\thuvien\\thuvien\\thuvien.csproj": {
+    "D:\\LTHDT\\thuvienrandom\\thuvienrandom\\thuvienrandom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\factory-method\\thuvien\\thuvien\\thuvien.csproj",
-        "projectName": "thuvien",
-        "projectPath": "D:\\Git\\factory-method\\thuvien\\thuvien\\thuvien.csproj",
+        "projectUniqueName": "D:\\LTHDT\\thuvienrandom\\thuvienrandom\\thuvienrandom.csproj",
+        "projectName": "thuvienrandom",
+        "projectPath": "D:\\LTHDT\\thuvienrandom\\thuvienrandom\\thuvienrandom.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\factory-method\\thuvien\\thuvien\\obj\\",
+        "outputPath": "D:\\LTHDT\\thuvienrandom\\thuvienrandom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

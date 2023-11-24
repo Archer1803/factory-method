@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = thuvien
-build_property.ProjectDir = D:\Git\factory-method\thuvien\thuvien\
+build_property.RootNamespace = thuvienrandom
+build_property.ProjectDir = D:\LTHDT\thuvienrandom\thuvienrandom\

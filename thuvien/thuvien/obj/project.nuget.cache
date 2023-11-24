@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "alZZwiF8G58E8GGWV+j4t9f4nrxraa5vS2Dqb1fIYOBlsjaMkJLLl2JFUgAMiJHPirZyQ6XF+FYKE49fCS2dKg==",
+  "dgSpecHash": "1YmZrWlpYIBUiYd9GAkapu8dPIlzBeNeT/H63CBaqUzBhCR+z7TQ4G3dBahIvRbWMHZYFKDamXGH+5YibcJT3A==",
   "success": true,
-  "projectFilePath": "D:\\LTHDT\\thuvien\\thuvien\\thuvien.csproj",
+  "projectFilePath": "D:\\Git\\factory-method\\thuvien\\thuvien\\thuvien.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
