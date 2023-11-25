@@ -12,3 +12,17 @@ D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\refint\thuvien.dll
 D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.pdb
 D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.genruntimeconfig.cache
 D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\ref\thuvien.dll
+D:\Git\factory-method\thuvien\thuvien\bin\Debug\net6.0\thuvien.exe
+D:\Git\factory-method\thuvien\thuvien\bin\Debug\net6.0\thuvien.deps.json
+D:\Git\factory-method\thuvien\thuvien\bin\Debug\net6.0\thuvien.runtimeconfig.json
+D:\Git\factory-method\thuvien\thuvien\bin\Debug\net6.0\thuvien.dll
+D:\Git\factory-method\thuvien\thuvien\bin\Debug\net6.0\thuvien.pdb
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.AssemblyInfoInputs.cache
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.AssemblyInfo.cs
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.csproj.CoreCompileInputs.cache
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.dll
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\refint\thuvien.dll
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.pdb
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\thuvien.genruntimeconfig.cache
+D:\Git\factory-method\thuvien\thuvien\obj\Debug\net6.0\ref\thuvien.dll
